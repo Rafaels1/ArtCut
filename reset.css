@@ -1,0 +1,16 @@
+* {
+    margin: 0; padding: 0; border: none;
+}
+
+body {
+    font-family: "fira code", Arial, Helvetica, sans-serif;
+}
+
+body h1, h2, h3, figure, input {
+    margin: 0;
+    padding: 0;
+}
+botton {
+    border: none;
+    font-family: inherit;
+}
